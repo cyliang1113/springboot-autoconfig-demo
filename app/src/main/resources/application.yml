@@ -1,0 +1,6 @@
+server:
+  port: 8080
+
+auto-config-demo:
+  name: 11
+  email: 22
